@@ -1,7 +1,7 @@
 # ruralcomputing
 Mozilla Science Global Sprint - Citizen Science - Minimal Computing - Rural Applications
 
-Mission:
+Introduction:
 
 Our project mission is to make computing universally accessible in the form of a robust, small, off-grid and open source computer based on Raspberry Pi and other readily available store-bought technologies.  
 
