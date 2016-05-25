@@ -5,64 +5,66 @@
 
 
 # How to Get Involved
-Becoming involved is easy.  The project presents five main technical challenges on the level of the technology. 
- The first is obtaining good data of energy consumption for the required peripherals and add-ons.  The technology will need to include a mouse, a keyboard, and a wi-fi solution.  We will need information on a broad range of peripherals and anyone with a pi and the required equipment can help by contributing data on energy consumption.  Please be sure to provide full product names and codes so that the data set remains clear.  This challenge includes identifying a possible monitor or an alternative workable visual solution, such as linking to a mobile phone.  This is likely to be one of the main variables determining the size and the cost of the required solar solution.  We want the monitor to be big enough to be able to read and produce documents comfortably, 10 inches is a reasonable goal to work towards. 
- The second challenge is creating a cheap way of shutting the Raspberry Pi down safely when the battery is close to running out of electricity. 
- The third is designing a solar power solution that is cheap, minimal, upgradeable, and maintainable with very limited knowledge of solar power systems. 
- The fourth is to produce an adaptable enough case system for the final product.  This case must be attractive, small, and adaptive enough to be useful to those who want to add to or alter the technology to suit their local resources and goals. 
- The fifth challenge is developing a DIY type sharing website where users can post challenges and solutions stemming from projects in their communities/professional contexts.  This site is essential to attract more users and to build points of attachment between the technology and local objectives.  The site must be easy to use and suitable to the technology through which it will be accessed.  It must also be able to exist on a local network for contexts where there is no internet access but where a group of users can still work together on projects, share documents and discuss challenges and solutions.
+> Becoming involved is easy.  The project presents five main technical challenges on the level of the technology. 
+
+
+* The first is obtaining good data of energy consumption for the required peripherals and add-ons.  The technology will need to include a mouse, a keyboard, and a wi-fi solution.  We will need information on a broad range of peripherals and anyone with a pi and the required equipment can help by contributing data on energy consumption.  Please be sure to provide full product names and codes so that the data set remains clear.  This challenge includes identifying a possible monitor or an alternative workable visual solution, such as linking to a mobile phone.  This is likely to be one of the main variables determining the size and the cost of the required solar solution.  We want the monitor to be big enough to be able to read and produce documents comfortably, 10 inches is a reasonable goal to work towards. 
+ * The second challenge is creating a cheap way of shutting the Raspberry Pi down safely when the battery is close to running out of electricity. 
+ * The third is designing a solar power solution that is cheap, minimal, upgradeable, and maintainable with very limited knowledge of solar power systems. 
+ * The fourth is to produce an adaptable enough case system for the final product.  This case must be attractive, small, and adaptive enough to be useful to those who want to add to or alter the technology to suit their local resources and goals. 
+ * The fifth challenge is developing a DIY type sharing website where users can post challenges and solutions stemming from projects in their communities/professional contexts.  This site is essential to attract more users and to build points of attachment between the technology and local objectives.  The site must be easy to use and suitable to the technology through which it will be accessed.  It must also be able to exist on a local network for contexts where there is no internet access but where a group of users can still work together on projects, share documents and discuss challenges and solutions.
 
 # Pick Milestones
-The first milestone will be visually representing a substantial data set on the Pi’s energy profiles for a range of the required peripherals.  The main output from this milestone will be a selection of the most efficient options and a chart of their consumption data for the design of the solar solution.
- - 2 June
-The second milestone will be a demonstratable cheap solution for safely shutting down the Pi when the battery is about to run out.  This can be done at the same time as what work is being done on the first milestone.
- - 2 June planning
- - 3 June possibly testing
+> The first milestone will be visually representing a substantial data set on the Pi’s energy profiles for a range of the required peripherals.  The main output from this milestone will be a selection of the most efficient options and a chart of their consumption data for the design of the solar solution.
+* Goal date - 2 June
+>The second milestone will be a demonstratable cheap solution for safely shutting down the Pi when the battery is about to run out.  This can be done at the same time as what work is being done on the first milestone.
+ * 2 June - Planning
+ * 3 June - Possibly testing
  
-The third milestone will be to unveil a MVP to demonstrate the technology’s ability to run autonomously off a solar system while using it in its intended applications.
- - 3 June planning
- - Pilot - Future music
+> The third milestone will be to unveil a MVP to demonstrate the technology’s ability to run autonomously off a solar system while using it in its intended applications.
+ * 3 June - Planning
+ * Pilot - Future music
  
-The fourth milestone will be unveiling a final version of the technology housed in an attractive, robust and adaptable case and showing how it is able to access a beta of the user website designed for the project.
- - 2-3 June Designing the look and feel
- - 3 June Planning what CMS / Website structure to utilise for end goal
-The fifth milestone will be piloting the completed technology and website with a local communitarian journalism and community organization in Potchefstroom in the North-West Province.
- - Pilot - Future music
+> The fourth milestone will be unveiling a final version of the technology housed in an attractive, robust and adaptable case and showing how it is able to access a beta of the user website designed for the project.
+ * 2-3 June - Designing the look and feel
+ * 3 June - Planning what CMS / Website structure to utilise for end goal
+>The fifth milestone will be piloting the completed technology and website with a local communitarian journalism and community organization in Potchefstroom in the North-West Province.
+ * Pilot - Future music
  
-List Tasks to Complete for Each Milestone
-Milestone one
-Test peripherals with a Pi and measure the energy use.
-Collect data submitted by participants elsewhere.
-Analyse the data hierarchically to identify the lowest energy peripherals in each of the categories:  mouse, keyboard, wifi, monitor.
-Graphically represent the five most efficient options for each category and share that as part of the project development process.
+## Tasks to Complete for Each Milestone
+### Milestone one
+* Test peripherals with a Pi and measure the energy use.
+* Collect data submitted by participants elsewhere.
+* Analyse the data hierarchically to identify the lowest energy peripherals in each of the categories:  mouse, keyboard, wifi, monitor.
+* Graphically represent the five most efficient options for each category and share that as part of the project development process.
  
-Milestone two
-Identify the available technologies for managing a power relative shut-down of the Pi.
-Cost the options.
-Evaluate the options for ease of use and adaptability.
-Build and test the two top candidates.
-Select the one that performs best in terms of cost, ease of use and adaptability.
+### Milestone two
+* Identify the available technologies for managing a power relative shut-down of the Pi.
+* Cost the options.
+* Evaluate the options for ease of use and adaptability.
+* Build and test the two top candidates.
+* Select the one that performs best in terms of cost, ease of use and adaptability.
  
-Milestone three
-Source solar panel and battery options for testing with a full setup of the Pi and all the required peripherals.
-Devise a solution for cheaply managing the charging of the batteries to ensure they are not damaged.
-Identify the cheapest, easily expandable and adaptable two solutions for full testing with the Pi and all peripherals.
-Run a series of contests built around the imagined tasks to be done with the technology to see which solar power solution lasts longest and is most easily replaceable and adaptable and select the winner for the final product.
+### Milestone three
+* Source solar panel and battery options for testing with a full setup of the Pi and all the required peripherals.
+* Devise a solution for cheaply managing the charging of the batteries to ensure they are not damaged.
+* Identify the cheapest, easily expandable and adaptable two solutions for full testing with the Pi and all peripherals.
+* Run a series of contests built around the imagined tasks to be done with the technology to see which solar power solution lasts longest and is most easily replaceable and adaptable and select the winner for the final product.
  
-Milestone four
-Identify website functions to be included in the website.
-Identify a suitable set of design elements to serve the intended functionality and technology capabilities.
-Build a version of the website
-Host a product design competition in which the participants are presented with all the components of the product and a design brief stipulating cost, adaptability and robustness as the main variables. 
-Prototype the designs.
-Host a competition in which the designs are evaluated for their appearance.
-Test the designs in a competition in which teams have to use the technology in typically intended tasks (including using the website), do maintenance and expand the system.
-Build the winning design as the pilot product.
+### Milestone four
+* Identify website functions to be included in the website.
+* Identify a suitable set of design elements to serve the intended functionality and technology capabilities.
+* Build a version of the website
+* Host a product design competition in which the participants are presented with all the components of the product and a design brief stipulating cost, adaptability and robustness as the main variables. 
+* Prototype the designs.
+* Host a competition in which the designs are evaluated for their appearance.
+* Test the designs in a competition in which teams have to use the technology in typically intended tasks (including using the website), do maintenance and expand the system.
+* Build the winning design as the pilot product.
  
-Milestone five
-List and take care of all design and website-related insights gained from milestone four.
-Integrate these into the product for the purposes of the pilot project.
-Build ten units and distribute them for use.
-Host a workshop with the identified user group in order to familiarize them with the technology.  The workshop must include software instruction and hardware maintenance and use and must record feedback for consideration later.
-Record and list all design and use related insights from the pilot project and update the product to reflect these.
-Launch a final product.
+### Milestone five
+* List and take care of all design and website-related insights gained from milestone four.
+* Integrate these into the product for the purposes of the pilot project.
+* Build ten units and distribute them for use.
+* Host a workshop with the identified user group in order to familiarize them with the technology.  The workshop must include software instruction and hardware maintenance and use and must record feedback for consideration later.
+* Record and list all design and use related insights from the pilot project and update the product to reflect these.
+# Launch a final product :-)
