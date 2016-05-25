@@ -1,7 +1,7 @@
-# ruralcomputing
-Mozilla Science Global Sprint - Citizen Science - Minimal Computing - Rural Applications
+# Minimal Computing - Rural Applications 
+> Mozilla Science Global Sprint - Citizen Science - Minimal Computing - Rural Applications
 
-<strong>Introduction:</strong>
+## Introduction:
 
 Our project mission is to make computing universally accessible in the form of a robust, small, off-grid and open source computer based on Raspberry Pi and other readily available store-bought technologies.  
 
@@ -11,7 +11,7 @@ How to get invovled:
 
 Becoming involved is easy.  The project presents five main technical challenges on the level of the technology.
 
-1) The first is obtaining good data of energy consumption for the required peripherals and add-ons.  The technology will need to include a mouse, a keyboard, and a wi-fi solution.  We will need information on a broad range of peripherals and anyone with a pi and the required equipment can help by contributing data on energy consumption.  Please be sure to provide full product names and codes so that the data set remains clear.  This challenge includes identifying a possible monitor or an alternative workable visual solution, such as linking to a mobile phone.  This is likely to be one of the main variables determining the size and the cost of the required solar solution.  We want the monitor to be big enough to be able to read and produce documents comfortably, 10 inches is a reasonable goal to work towards. 
+1) The first is obtaining good data of energy consumption for the required peripherals and add-ons. Read more in the [Roadmap] (ruralcomputing/Roadmap) The technology will need to include a mouse, a keyboard, and a wi-fi solution.  We will need information on a broad range of peripherals and anyone with a pi and the required equipment can help by contributing data on energy consumption.  Please be sure to provide full product names and codes so that the data set remains clear.  This challenge includes identifying a possible monitor or an alternative workable visual solution, such as linking to a mobile phone.  This is likely to be one of the main variables determining the size and the cost of the required solar solution.  We want the monitor to be big enough to be able to read and produce documents comfortably, 10 inches is a reasonable goal to work towards. 
 
 2) The second challenge is creating a cheap way of shutting the Raspberry Pi down safely when the battery is close to running out of electricity. 
 
