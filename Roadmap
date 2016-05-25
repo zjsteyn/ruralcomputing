@@ -5,7 +5,8 @@
 
 
 # How to Get Involved
-> Becoming involved is easy.  The project presents five main technical challenges on the level of the technology. 
+> Becoming involved is easy.  The project presents five main technical challenges on the level of the technology. As part of the Sprint the primary focus will lie on writing up best practices on how to execute the project.
+Extra files and folders will be created for this purpse in the repository
 
 
 * The first is obtaining good data of energy consumption for the required peripherals and add-ons.  The technology will need to include a mouse, a keyboard, and a wi-fi solution.  We will need information on a broad range of peripherals and anyone with a pi and the required equipment can help by contributing data on energy consumption.  Please be sure to provide full product names and codes so that the data set remains clear.  This challenge includes identifying a possible monitor or an alternative workable visual solution, such as linking to a mobile phone.  This is likely to be one of the main variables determining the size and the cost of the required solar solution.  We want the monitor to be big enough to be able to read and produce documents comfortably, 10 inches is a reasonable goal to work towards. 
